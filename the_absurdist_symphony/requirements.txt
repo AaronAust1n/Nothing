@@ -1,0 +1,2 @@
+requests>=2.25.0 # For fetching data from web APIs (e.g., wttr.in by the mock view_text_website)
+Jinja2>=3.0.0    # For HTML templating

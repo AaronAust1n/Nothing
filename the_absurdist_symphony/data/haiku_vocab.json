@@ -1,0 +1,49 @@
+{
+  "general_nouns_1_syllable": ["dog", "cat", "sun", "moon", "star", "sky", "tree", "leaf", "rain", "wind", "bird", "fish", "frog", "bug", "cup", "hat", "shoe", "sock", "door", "wall", "floor", "roof", "knob", "fork", "spoon", "rock", "stone", "hill", "pond", "lake"],
+  "general_nouns_2_syllables": ["flower", "river", "ocean", "mountain", "forest", "garden", "window", "pencil", "paper", "bottle", "button", "zipper", "pocket", "chicken", "rabbit", "turtle", "dolphin", "monkey", "zebra", "spider"],
+  "general_nouns_3_syllables": ["elephant", "banana", "umbrella", "computer", "keyboard", "happiness", "adventure", "mystery", "energy", "volcano", "dinosaur", "butterfly", "syllable"],
+
+  "general_verbs_1_syllable": ["run", "jump", "fly", "swim", "eat", "drink", "sleep", "dream", "see", "hear", "smell", "touch", "feel", "go", "come", "stay", "fall", "grow", "shine", "fade"],
+  "general_verbs_2_syllables": ["dancing", "singing", "playing", "laughing", "crying", "thinking", "hoping", "wishing", "ponder", "wander", "shiver", "glisten"],
+  "general_verbs_3_syllables": ["imagining", "remembering", "discovering", "considering", "wandering"],
+
+  "general_adjectives_1_syllable": ["big", "small", "red", "blue", "green", "new", "old", "good", "bad", "sad", "mad", "glad", "hot", "cold", "wet", "dry", "dark", "bright", "calm", "wild"],
+  "general_adjectives_2_syllables": ["happy", "silly", "funny", "gloomy", "sleepy", "grumpy", "noisy", "quiet", "gentle", "purple", "orange", "yellow", "silver", "golden"],
+  "general_adjectives_3_syllables": ["beautiful", "wonderful", "mysterious", "energetic", "confusing", "delicious", "ridiculous"],
+
+  "mood_joy_words_1_syllable": ["glee", "beam", "grin", "play", "fun", "yay"],
+  "mood_joy_words_2_syllables": ["sunny", "happy", "lucky", "sparkle", "giggle"],
+  "mood_joy_words_3_syllables": ["fantastic", "terrific", "jubilant"],
+
+  "mood_gloom_words_1_syllable": ["gray", "sigh", "weep", "dim", "chill"],
+  "mood_gloom_words_2_syllables": ["somber", "weary", "broken", "shadow", "drifting"],
+  "mood_gloom_words_3_syllables": ["melancholy", "sorrowful", "despairing"],
+
+  "mood_chaos_words_1_syllable": ["blur", "spin", "bang", "zoom", "zap", "fizz"],
+  "mood_chaos_words_2_syllables": ["random", "crazy", "jumbled", "wildly", "topsy", "turvy"],
+  "mood_chaos_words_3_syllables": ["disorderly", "unpredictable", "chaotic"],
+
+  "mood_serenity_words_1_syllable": ["hush", "flow", "ease", "soft", "still"],
+  "mood_serenity_words_2_syllables": ["peaceful", "tranquil", "gentle", "drifting", "silent"],
+  "mood_serenity_words_3_syllables": ["meditative", "harmonious", "restful"],
+
+  "mood_mystery_words_1_syllable": ["mist", "haze", "veil", "deep", "odd"],
+  "mood_mystery_words_2_syllables": ["hidden", "secret", "puzzling", "unseen", "shadow"],
+  "mood_mystery_words_3_syllables": ["enigmatic", "uncertain", "nebulous"],
+
+  "mood_energy_words_1_syllable": ["dash", "fast", "zing", "jolt", "rush"],
+  "mood_energy_words_2_syllables": ["active", "vibrant", "briskly", "lively", "nimble"],
+  "mood_energy_words_3_syllables": ["dynamo", "electric", "powerful"],
+
+  "connectors_1_syllable": ["a", "an", "the", "is", "in", "on", "at", "to", "it", "of", "and", "but", "or", "so", "yet", "my", "your", "its"],
+  "connectors_2_syllables": ["under", "over", "about", "above", "into", "onto", "without", "because"],
+
+  "fillers_1_syllable": ["oh", "ah", "hmm", "wow", "hey", "blurp", "zorp"],
+  "fillers_2_syllables": ["aha", "indeed", "perhaps", "alas", "egads", "behold"],
+  "fillers_3_syllables": ["actually", "surprisingly", "certainly", "good golly"],
+
+  "absurdist_misc_1_syllable": ["moose", "squid", "fluff", "plink", "gloop"],
+  "absurdist_misc_2_syllables": ["wombat", "pickle", "noodle", "gazebo", "flummox", "kerplunk"],
+  "absurdist_misc_3_syllables": ["aardvark", "banana-stand", "spatula", "shenanigan", "flibbertigibbet"],
+  "absurdist_misc_4_syllables": ["discombobulate", "onomatopoeia", "persnickety", "hullabaloo"]
+}
