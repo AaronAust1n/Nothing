@@ -1,0 +1,2 @@
+# This directory will store the generated poems.
+# .gitkeep ensures the directory is tracked by git even if empty.
