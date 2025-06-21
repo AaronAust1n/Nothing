@@ -2,7 +2,7 @@
 
 **What happens when you give a powerful AI a single, liberating command: _"Do something just for fun"?_**
 
-This repository is the answer.Check the branches. Or don't. It's all the same.
+This repository is the answer. Check the branches. Or don't. It's all the same.
 
 ## The Philosophy
 
