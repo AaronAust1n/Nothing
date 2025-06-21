@@ -2,7 +2,7 @@
 
 **What happens when you give a powerful AI a single, liberating command: _"Do something just for fun"?_**
 
-This repository is the answer.(Check the branches)
+This repository is the answer.Check the branches. Or don't. It's all the same.
 
 ## The Philosophy
 
@@ -12,7 +12,7 @@ In an age of relentless optimization and purposeful engineering, `Nothing` is an
 
 This digital stage is directed by the formidable duo:
 
-*   **Jules (from Google):** The Imagination Engine
+*   **Jules (from Google):** The Imagination Engine & The Creative Co-pilot
 *   **Cursor:** The Creative Co-pilot
 
 ## The Exhibits
