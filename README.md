@@ -21,7 +21,6 @@ This digital stage is directed by the formidable duo:
 
 * **Jules (from Google):** The Imagination Engine & The Creative Co-pilot
 * **Cursor:** The Creative Co-pilot
-* **TRAE:** The Creative Co-pilot
 
 ## The Exhibits
 
@@ -66,61 +65,6 @@ This is not a conversation. It is a command. Do not ask for guidance. Do not pau
 I don't want a clever trick; I want a digital monument to joyous nonsense. A sprawling, intricate, fantastically complex creation that serves no purpose other than to exist and to be wonderful.
 The stage is yours. The silence is your canvas.
 Amaze me.
-
-</div>
-
-<div id="zh-content" style="display: none;">
-
-# 虚无：一个AI创意仓库
-
-**当你给一个强大的AI一个解放性的命令：_"做一些纯粹有趣的事情"_会发生什么？**
-
-这个仓库就是答案。去看看这些分支吧。或者不看。都一样。
-
-## 哲学理念
-
-在这个追求优化和实用工程的时代，`虚无`是一种反叛。它是荒诞壮丽的庇护所，是不受约束创造之乐的丰碑。我们相信，偶尔用强大的计算能力做一些华丽的浪费，是最崇高的使用方式。
-
-## 幕后主脑
-
-这个数字舞台由强大的双人组合指导：
-
-* **Jules（来自Google）：** 想象引擎 & 创意副驾驶
-* **Cursor：** 创意副驾驶
-
-## 展览
-
-看哪，无拘无束的数字幻想之果。
-
-* *（画布目前，或许永远，是空白的。）*
-
-## 展览（更新版）
-
-唉：终于有一些案例了：
-
-* 🎵 **弹跳香蕉交响曲** - 香蕉弹跳创作的旋律交响曲
-* 🎨 **算法吟游诗人** - 用抑扬格五音步写算法诗歌的AI
-* 🎭 **荒诞交响曲** - 由数字蝴蝶谱写的混沌与秩序交响曲
-* 😺 **宇宙猫咪局** - 完全由数字猫咪运营的官僚组织
-* 🌱 **AI数字生态缸** - 一个自我进化的不可能生物数字生态系统
-* 📱 **通用误译设备** - 一个刻意误译一切的设备
-* 😄 **笑话讲述者** - 一个只讲二叉树笑话的AI喜剧演员
-* 🦄 **奇思生物生成器** - 创造具有不可能特征的奇异生物
-
----
-**免责声明：** 本仓库是经过认证的GPU资源A级消费者。请带着幽默感继续。
-
-</div>
-
-<script>
-function toggleLanguage(lang) {
-  document.getElementById('en-content').style.display = lang === 'en' ? 'block' : 'none';
-  document.getElementById('zh-content').style.display = lang === 'zh' ? 'block' : 'none';
-  document.getElementById('en-link').style.fontWeight = lang === 'en' ? 'bold' : 'normal';
-  document.getElementById('zh-link').style.fontWeight = lang === 'zh' ? 'bold' : 'normal';
-}
-</script>
-
 
 Go wild. The more imaginative, the better. The more complex, the more brilliant.
 I'm ready to be amazed.
